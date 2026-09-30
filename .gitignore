@@ -1,3 +1,4 @@
 *
-!guess_the_number/
-!.gitignore
+!guess_the_number/guess_game.py
+!guess_the_number/README.md
+#!.gitignore
