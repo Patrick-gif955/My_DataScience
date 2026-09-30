@@ -1,3 +1,4 @@
+
 import random
 
 x = random.randint(1, 20)
@@ -13,8 +14,9 @@ while True:
             print(f"Hurray 🥳 You guessed right the number is {x}")
             break
         elif guess < x:
-            print(f"Your guess is too low, try again ")
+            print(f"Your guess is {guess}, it's too low , try again ")
         elif guess > x:
-            print(f"Your guess is too high, try again")
+            print(f"Your guess is t{guess}, it's oo high, try again")
     except ValueError:
         print("Invalid input")
+

@@ -22,4 +22,4 @@ You try to guess it.
 100% Python. No extra libraries except the built-in `random`.
 
 ## Run it
-https://codespaces.new/Patrick-gif955/My_DataScience
+https://onlinegdb.com/BA4wa2DoL3
