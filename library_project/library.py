@@ -6,9 +6,6 @@ class Book:
     def name (self):
         return f"{self.title} by {self.author}"
 
-#print(b1)
-
-
 class Library:
     def __init__(self,):
         self.books = []
